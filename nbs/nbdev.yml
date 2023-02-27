@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jupyter_langchain"
+  site-url: "https://mye.github.io/jupyter_langchain"
+  description: "Magic for interacting with LangChain"
+  repo-branch: main
+  repo-url: "https://github.com/mye/jupyter_langchain"
